@@ -1,0 +1,24 @@
+.article_block {
+    width: 800px;
+    height: 1500px;
+    border: 1px solid black;
+}
+
+.article_news_block {
+    display: flex;
+    margin-top: 60px;
+}
+
+.article_news_block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.article_news_info {
+    width: 420px;
+}
+
+.article_news_image {
+    width: 350px;
+    height: 200px;
+}
